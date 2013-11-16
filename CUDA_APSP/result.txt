@@ -1,0 +1,475 @@
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 32,numP is 2,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						0.406 ms, 
+
+ Time to calculate results on GPU(baseline):					0.186 ms, 2.187 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.190 ms, 2.135 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.183 ms, 2.215 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.191 ms, 2.125 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.197 ms, 2.063 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.203 ms, 1.997 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 32,numP is 4,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						0.095 ms, 
+
+ Time to calculate results on GPU(baseline):					0.150 ms, 0.633 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.149 ms, 0.634 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.142 ms, 0.670 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.144 ms, 0.656 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.153 ms, 0.620 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.159 ms, 0.594 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 32,numP is 8,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						0.091 ms, 
+
+ Time to calculate results on GPU(baseline):					0.158 ms, 0.578 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.156 ms, 0.586 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.149 ms, 0.614 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.152 ms, 0.601 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.154 ms, 0.594 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.160 ms, 0.571 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 32,numP is 16,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						0.360 ms, 
+
+ Time to calculate results on GPU(baseline):					0.179 ms, 2.011 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.169 ms, 2.129 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.170 ms, 2.111 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.173 ms, 2.085 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.171 ms, 2.109 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.172 ms, 2.097 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 32,numP is 32,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						0.096 ms, 
+
+ Time to calculate results on GPU(baseline):					0.320 ms, 0.299 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.258 ms, 0.371 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.275 ms, 0.348 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.274 ms, 0.350 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.263 ms, 0.364 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.272 ms, 0.353 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 128,numP is 2,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						20.825 ms, 
+
+ Time to calculate results on GPU(baseline):					5.075 ms, 4.103 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				5.190 ms, 4.012 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				5.795 ms, 3.593 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				6.215 ms, 3.351 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					5.938 ms, 3.507 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				6.340 ms, 3.285 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 128,numP is 4,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						20.731 ms, 
+
+ Time to calculate results on GPU(baseline):					1.759 ms, 11.787 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				1.764 ms, 11.750 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				1.915 ms, 10.827 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				2.015 ms, 10.290 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					1.951 ms, 10.624 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				2.049 ms, 10.118 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 128,numP is 8,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						20.903 ms, 
+
+ Time to calculate results on GPU(baseline):					0.893 ms, 23.415 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.831 ms, 25.142 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				0.930 ms, 22.476 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				0.962 ms, 21.733 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					0.881 ms, 23.719 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				0.919 ms, 22.747 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 128,numP is 16,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						20.859 ms, 
+
+ Time to calculate results on GPU(baseline):					1.248 ms, 16.708 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				0.994 ms, 20.988 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				1.014 ms, 20.578 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				1.033 ms, 20.196 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					1.024 ms, 20.369 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				1.020 ms, 20.450 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 128,numP is 32,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						20.775 ms, 
+
+ Time to calculate results on GPU(baseline):					1.976 ms, 10.516 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				1.420 ms, 14.626 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				1.503 ms, 13.826 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				1.485 ms, 13.994 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					1.473 ms, 14.106 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				1.453 ms, 14.293 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 256,numP is 2,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						162.764 ms, 
+
+ Time to calculate results on GPU(baseline):					37.988 ms, 4.285 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				38.868 ms, 4.188 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				43.679 ms, 3.726 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				46.969 ms, 3.465 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					41.500 ms, 3.922 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				44.419 ms, 3.664 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 256,numP is 4,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						162.793 ms, 
+
+ Time to calculate results on GPU(baseline):					10.787 ms, 15.092 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				11.021 ms, 14.771 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				12.093 ms, 13.462 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				12.856 ms, 12.663 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					12.403 ms, 13.125 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				13.132 ms, 12.397 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 256,numP is 8,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						162.571 ms, 
+
+ Time to calculate results on GPU(baseline):					4.351 ms, 37.365 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				4.308 ms, 37.735 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				4.603 ms, 35.317 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				4.814 ms, 33.767 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					4.676 ms, 34.767 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				4.863 ms, 33.429 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 256,numP is 16,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						162.630 ms, 
+
+ Time to calculate results on GPU(baseline):					6.467 ms, 25.146 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				4.769 ms, 34.104 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				4.879 ms, 33.335 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				5.009 ms, 32.465 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					5.022 ms, 32.386 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				4.969 ms, 32.731 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 256,numP is 32,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						162.701 ms, 
+
+ Time to calculate results on GPU(baseline):					12.477 ms, 13.040 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				8.267 ms, 19.680 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				8.963 ms, 18.153 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				8.768 ms, 18.556 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					8.592 ms, 18.937 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				8.510 ms, 19.120 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 512,numP is 2,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						1141.536 ms, 
+
+ Time to calculate results on GPU(baseline):					306.678 ms, 3.722 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				301.386 ms, 3.788 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				346.697 ms, 3.293 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				370.286 ms, 3.083 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					343.829 ms, 3.320 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				366.092 ms, 3.118 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 512,numP is 4,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						1074.470 ms, 
+
+ Time to calculate results on GPU(baseline):					112.744 ms, 9.530 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				102.524 ms, 10.480 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				117.452 ms, 9.148 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				121.102 ms, 8.872 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					110.495 ms, 9.724 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				115.345 ms, 9.315 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 512,numP is 8,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						1076.543 ms, 
+
+ Time to calculate results on GPU(baseline):					72.296 ms, 14.891 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				74.533 ms, 14.444 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				70.194 ms, 15.337 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				70.045 ms, 15.369 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					73.947 ms, 14.558 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				72.900 ms, 14.767 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 512,numP is 16,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						1074.296 ms, 
+
+ Time to calculate results on GPU(baseline):					82.177 ms, 13.073 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				82.834 ms, 12.969 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				60.992 ms, 17.614 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				57.520 ms, 18.677 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					64.752 ms, 16.591 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				62.397 ms, 17.217 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 512,numP is 32,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						1073.796 ms, 
+
+ Time to calculate results on GPU(baseline):					109.041 ms, 9.848 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				80.579 ms, 13.326 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				73.827 ms, 14.545 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				74.806 ms, 14.354 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					76.624 ms, 14.014 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				72.719 ms, 14.766 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 1024,numP is 2,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						8492.120 ms, 
+
+ Time to calculate results on GPU(baseline):					2753.091 ms, 3.085 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				2582.426 ms, 3.288 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				3049.476 ms, 2.785 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				3228.402 ms, 2.630 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					2894.936 ms, 2.933 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				3070.734 ms, 2.766 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 1024,numP is 4,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						8484.077 ms, 
+
+ Time to calculate results on GPU(baseline):					1075.893 ms, 7.886 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				886.679 ms, 9.568 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				1090.820 ms, 7.778 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				1110.608 ms, 7.639 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					918.999 ms, 9.232 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				946.332 ms, 8.965 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 1024,numP is 8,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						8534.795 ms, 
+
+ Time to calculate results on GPU(baseline):					602.654 ms, 14.162 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				522.329 ms, 16.340 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				598.366 ms, 14.263 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				599.897 ms, 14.227 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					518.535 ms, 16.459 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				517.533 ms, 16.491 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 1024,numP is 16,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						8489.939 ms, 
+
+ Time to calculate results on GPU(baseline):					602.197 ms, 14.098 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				516.559 ms, 16.436 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				437.762 ms, 19.394 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				415.368 ms, 20.440 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					408.095 ms, 20.804 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				395.661 ms, 21.458 speed up than on CPU
+./APSP Starting...
+
+GPU Device 0: "GeForce GTX 680" with compute capability 3.0
+
+Size is 1024,numP is 32,cmd_s is 1, cmd_e is 6, test is 0 
+
+ Time to calculate results on CPU:						8502.586 ms, 
+
+ Time to calculate results on GPU(baseline):					817.480 ms, 10.401 speed up than on CPU
+
+ Time to calculate results on GPU(colasing only):				630.502 ms, 13.485 speed up than on CPU
+
+ Time to calculate results on GPU(shared mem only):				552.448 ms, 15.391 speed up than on CPU
+
+ Time to calculate results on GPU(share mem double):				562.263 ms, 15.122 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced):					564.423 ms, 15.064 speed up than on CPU
+
+ Time to calculate results on GPU(Advanced,double):				554.043 ms, 15.346 speed up than on CPU
